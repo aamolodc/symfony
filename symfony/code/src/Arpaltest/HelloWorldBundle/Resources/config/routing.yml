@@ -1,0 +1,3 @@
+arpaltest_hello_world:
+     path: /helloworld
+     defaults: { _controller: ArpaltestHelloWorldBundle:Default:index }

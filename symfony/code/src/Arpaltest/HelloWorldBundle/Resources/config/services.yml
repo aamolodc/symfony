@@ -1,0 +1,4 @@
+services:
+#    arpaltest_hello_world.example:
+#        class: Arpaltest\HelloWorldBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]
